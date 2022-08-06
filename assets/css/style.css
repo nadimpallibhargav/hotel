@@ -1,10 +1,10 @@
 /* font */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap");
-@import "./_common.css";
-@import "./_header.css";
-@import "./_slider.css";
-@import "./_footer.css";
-@import "./_modal.css";
+@import "./common.css";
+@import "./header.css";
+@import "./slider.css";
+@import "./footer.css";
+@import "./modal.css";
 
 /* common styles start  */
 body {
